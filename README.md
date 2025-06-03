@@ -71,10 +71,6 @@ The script will:
 - seaborn: Statistical data visualization
 - requests: HTTP library for API calls
 
-## License
+## Goal of the pipeline
 
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
+Take raw, multi-source financial data, process it through a modular, multi-agent system, and produce a trained predictive model that can accurately estimate credit risk (loan default) or term deposit subscription, while evaluating how pipeline configurations (e.g., parallel vs. sequential execution) impact efficiency and performance.
